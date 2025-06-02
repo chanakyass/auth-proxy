@@ -1,0 +1,14 @@
+{
+  "name": "auth-proxy",
+  "version": "0.0.1",
+  "description": "Auth proxy for microservices",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "firebase-admin": "^12.1.0",
+    "node-fetch": "^2.6.1"
+  }
+}
